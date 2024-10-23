@@ -1,4 +1,0 @@
-numpy
-plotly
-scikit-learn
-pandas-datareader
